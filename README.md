@@ -28,7 +28,7 @@ Code: [https://github.com/niccololampa/react-squad-of-champions](https://github.
 
 ## [Delete Specific Websites History Chrome Plugin](https://chrome.google.com/webstore/detail/delete-specific-websites/keplejlalaijkoophmemolbjgpcjonjm/overview)
 
-Chrome Plugin Page: https://chrome.google.com/webstore/detail/delete-specific-websites/keplejlalaijkoophmemolbjgpcjonjm/overview
+Chrome Plugin Page: [https://chrome.google.com/webstore/detail/delete-specific-websites/keplejlalaijkoophmemolbjgpcjonjm/overview](https://chrome.google.com/webstore/detail/delete-specific-websites/keplejlalaijkoophmemolbjgpcjonjm/overview)
 
 ![Screenshot 2024-01-15 at 11 10 10 PM](https://github.com/niccololampa/portfolio/assets/37615906/0fbd9d45-adcd-4dc4-bac6-8256bba7f31c)
 
