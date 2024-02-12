@@ -2,7 +2,7 @@
 
 Below are links to Niccolo Lampa's work samples.
 
-You may also view Niccolo Lampa's tech blog: [https://thedatalife.com](https://thedatalife.com)
+You may also view Niccolo Lampa's tech blog:  <a href="https://thedatalife.com" target="_blank">https://thedatalife.com</a>
 
 ## [Games Directory](https://niccololampa.github.io/games-directory-challenge) 
 Github Pages Website: [https://niccololampa.github.io/games-directory-challenge](https://niccololampa.github.io/games-directory-challenge)
