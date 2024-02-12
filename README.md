@@ -27,8 +27,8 @@ Code: <a href="https://github.com/niccololampa/react-squad-of-champions" target=
 
 ![Screenshot 2024-01-15 at 11 02 40 PM](https://github.com/niccololampa/portfolio/assets/37615906/3e24ff06-dc73-4d51-adef-c29c4a54d505)
 
-## <a href="https://chrome.google.com/webstore/detail/delete-specific-websites/keplejlalaijkoophmemolbjgpcjonjm/overview" target="_blank">Delete Specific Websites History Chrome Plugin</a>
-Chrome Plugin Page: <a href="https://chrome.google.com/webstore/detail/delete-specific-websites/keplejlalaijkoophmemolbjgpcjonjm/overview" target="_blank">https://chrome.google.com/webstore/detail/delete-specific-websites/keplejlalaijkoophmemolbjgpcjonjm/overview</a>
+## <a href="https://chromewebstore.google.com/detail/delete-specific-websites/keplejlalaijkoophmemolbjgpcjonjm" target="_blank">Delete Specific Websites History Chrome Plugin</a>
+Chrome Plugin Page: <a href="https://chromewebstore.google.com/detail/delete-specific-websites/keplejlalaijkoophmemolbjgpcjonjm" target="_blank">https://chromewebstore.google.com/detail/delete-specific-websites/keplejlalaijkoophmemolbjgpcjonjm</a>
 
 ![Screenshot 2024-01-15 at 11 10 10 PM](https://github.com/niccololampa/portfolio/assets/37615906/0fbd9d45-adcd-4dc4-bac6-8256bba7f31c)
 
@@ -37,3 +37,4 @@ Code: <a href="https://github.com/niccololampa/mailgun-webhook-aws-api-dynamodb-
 
 ![AWS Diagram](https://user-images.githubusercontent.com/37615906/202344191-62be4497-09e0-4881-8762-daa390ac0c74.png)
 
+https://chromewebstore.google.com/detail/delete-specific-websites/keplejlalaijkoophmemolbjgpcjonjm
