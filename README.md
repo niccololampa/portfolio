@@ -7,7 +7,7 @@ You may also view Niccolo Lampa's tech blog:  <a href="https://thedatalife.com" 
 ## <a href="https://niccololampa.github.io/games-directory-challenge" target="_blank">Games Directory</a>
 Github Pages Website: <a href="https://niccololampa.github.io/games-directory-challenge" target="_blank">https://niccololampa.github.io/games-directory-challenge</a>
 
-Code: <a href="https://niccololampa.github.io/games-directory-challenge" target="_blank">https://github.com/niccololampa/games-directory-challenge</a>
+Code: <a href="https://github.com/niccololampa/games-directory-challenge" target="_blank">https://github.com/niccololampa/games-directory-challenge</a>
 
 ![Screenshot 2024-01-15 at 10 57 20 PM](https://github.com/niccololampa/portfolio/assets/37615906/19c48049-49ab-4c5e-a58d-08d9a2ffda06)
 
