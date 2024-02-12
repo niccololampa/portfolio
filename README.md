@@ -37,4 +37,3 @@ Code: <a href="https://github.com/niccololampa/mailgun-webhook-aws-api-dynamodb-
 
 ![AWS Diagram](https://user-images.githubusercontent.com/37615906/202344191-62be4497-09e0-4881-8762-daa390ac0c74.png)
 
-https://chromewebstore.google.com/detail/delete-specific-websites/keplejlalaijkoophmemolbjgpcjonjm
