@@ -2,8 +2,10 @@
 
 Below are links to Niccolo Lampa's work samples.
 
-## [Games Directory](https://niccololampa.github.io/games-directory-challenge/games) 
-Github Pages Website: [https://niccololampa.github.io/games-directory-challenge/games](https://niccololampa.github.io/games-directory-challenge/games)
+You may also view Niccolo Lampa's tech blog: [https://thedatalife.com](https://thedatalife.com)
+
+## [Games Directory](https://niccololampa.github.io/games-directory-challenge) 
+Github Pages Website: [https://niccololampa.github.io/games-directory-challenge](https://niccololampa.github.io/games-directory-challenge)
 
 Code: [https://github.com/niccololampa/games-directory-challenge](https://github.com/niccololampa/games-directory-challenge)
 
@@ -11,8 +13,8 @@ Code: [https://github.com/niccololampa/games-directory-challenge](https://github
 
 
 
-## [Message Template](https://https://niccololampa.github.io/message-templates-challenge)
-Github Pages Website: [https://https://niccololampa.github.io/message-templates-challenge](https://https://niccololampa.github.io/message-templates-challenge)
+## [Message Template](https://niccololampa.github.io/message-templates-challenge)
+Github Pages Website: [https://niccololampa.github.io/message-templates-challenge](https://niccololampa.github.io/message-templates-challenge)
 
 Code: [https://github.com/niccololampa/message-templates-challenge](https://github.com/niccololampa/message-templates-challenge)
 
