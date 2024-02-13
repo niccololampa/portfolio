@@ -32,7 +32,7 @@ Chrome Plugin Page: <a href="https://chromewebstore.google.com/detail/delete-spe
 
 ![Screenshot 2024-01-15 at 11 10 10 PM](https://github.com/niccololampa/portfolio/assets/37615906/0fbd9d45-adcd-4dc4-bac6-8256bba7f31c)
 
-## <a href="https://github.com/niccololampa/mailgun-webhook-aws-api-dynamodb-sns" target="_blank">Mailgun Webhook AWS Lambda DyanamoDB and SNS Notification Service</a>
+## <a href="https://github.com/niccololampa/mailgun-webhook-aws-api-dynamodb-sns" target="_blank">Mailgun Webhook AWS Lambda DynamoDB and SNS Notification Service</a>
 Code: <a href="https://github.com/niccololampa/mailgun-webhook-aws-api-dynamodb-sns" target="_blank">https://github.com/niccololampa/mailgun-webhook-aws-api-dynamodb-sns</a>
 
 ![AWS Diagram](https://user-images.githubusercontent.com/37615906/202344191-62be4497-09e0-4881-8762-daa390ac0c74.png)
