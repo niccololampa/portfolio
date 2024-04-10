@@ -74,5 +74,38 @@ You may also view Niccolo Lampa's tech blog:  <a href="https://thedatalife.com" 
 ![Screenshot 2024-04-10 at 2 32 20 PM](https://github.com/niccololampa/portfolio/assets/37615906/eb37c9c0-35c7-4dc0-a0e9-10ba37038c91)
 
 
+## <a href="https://codesandbox.io/p/sandbox/w0z1n10z9k" target="_blank">React Markdown Previewer</a> 
+
+**CodeSandbox Demo:** <a href="https://codesandbox.io/p/sandbox/50lyq17q6k" target="_blank">https://codesandbox.io/p/sandbox/50lyq17q6k</a>
+
+**Code:** <a href="https://github.com/niccololampa/web-development-front-end-projects/tree/master/react-markdown-previewer-project" target="_blank">https://github.com/niccololampa/web-development-front-end-projects/tree/master/react-markdown-previewer-project</a>
+
+![Screenshot 2024-04-10 at 5 30 51 PM](https://github.com/niccololampa/portfolio/assets/37615906/04963000-0415-4c5d-8247-6ec9e3c25d36)
+
+
+## <a href="https://codesandbox.io/p/sandbox/w0z1n10z9k" target="_blank">React Workout and Task Alarm</a> 
+
+**CodeSandbox Demo:** <a href="https://codesandbox.io/p/sandbox/mz9q6yl3jp" target="_blank">https://codesandbox.io/p/sandbox/mz9q6yl3jp</a>
+
+**Code:** <a href="https://github.com/niccololampa/web-development-front-end-projects/tree/master/react-workout-task-timer-project" target="_blank">https://github.com/niccololampa/web-development-front-end-projects/tree/master/react-workout-task-timer-project</a>
+
+![Screenshot 2024-04-10 at 5 37 05 PM](https://github.com/niccololampa/portfolio/assets/37615906/a4396016-9c44-4efd-b595-5e9b05e92e92)
+
+
+## <a href="https://codesandbox.io/p/sandbox/w0z1n10z9k" target="_blank">React / Redux Random Programmer Quote Generator/a> 
+
+**CodeSandbox Demo:** <a href="https://codesandbox.io/p/sandbox/ywwz1koqvz" target="_blank">https://codesandbox.io/p/sandbox/ywwz1koqvz</a>
+
+**Code:** <a href="https://github.com/niccololampa/web-development-front-end-projects/tree/master/react-random-quote-machine-project" target="_blank">https://github.com/niccololampa/web-development-front-end-projects/tree/master/react-random-quote-machine-project</a>
+
+![Screenshot 2024-04-10 at 5 40 14 PM](https://github.com/niccololampa/portfolio/assets/37615906/7d6e1c29-1047-4f94-b17c-6917107c3e4c)
+
+## <a href="https://codesandbox.io/p/sandbox/w0z1n10z9k" target="_blank">React Calculator with Display</a> 
+
+**CodeSandbox Demo:** <a href="https://codesandbox.io/p/sandbox/j7vy0v9jw" target="_blank">https://codesandbox.io/p/sandbox/j7vy0v9jw</a>
+
+**Code:** <a href="https://github.com/niccololampa/web-development-front-end-projects/tree/master/react-calculator-project" target="_blank">https://github.com/niccololampa/web-development-front-end-projects/tree/master/react-calculator-project</a>
+
+![Screenshot 2024-04-10 at 5 38 16 PM](https://github.com/niccololampa/portfolio/assets/37615906/d0b27d3c-c33a-489e-8005-043e632e0cf3)
 
 
