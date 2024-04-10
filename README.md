@@ -11,6 +11,10 @@ Actual Deployment: <a href="https://youtu.be/lxBvbhXag1c" target="_blank">https:
 
 https://github.com/niccololampa/portfolio/assets/37615906/4b70cbb9-2559-4e39-932f-0912af218d06
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxBvbhXag1c?si=bnohhLa0yCgQI10c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
 Demo: <a href="https://youtu.be/lxBvbhXag1c" target="_blank">https://www.youtube.com/watch?v=0K1xJo_fa_w</a>
 
 https://github.com/niccololampa/portfolio/assets/37615906/467f56c9-238d-469d-96fc-f521feaa664c
