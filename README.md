@@ -55,3 +55,17 @@ Code: <a href="https://github.com/niccololampa/mailgun-webhook-aws-api-dynamodb-
 
 ![AWS Diagram](https://user-images.githubusercontent.com/37615906/202344191-62be4497-09e0-4881-8762-daa390ac0c74.png)
 
+
+## <a href="https://codesandbox.io/p/sandbox/w0z1n10z9k" target="_blank">React DJ Electronic Launchpad</a> 
+
+CodeSandbox Demo: <a href="https://codesandbox.io/p/sandbox/w0z1n10z9k" target="_blank">https://codesandbox.io/p/sandbox/w0z1n10z9k</a>
+
+Code: <a href="https://github.com/niccololampa/web-development-front-end-projects/tree/master/react-electronic-music-launchpad" target="_blank">https://github.com/niccololampa/web-development-front-end-projects/tree/master/react-electronic-music-launchpad</a>
+
+![Screenshot 2024-04-10 at 2 32 05 PM](https://github.com/niccololampa/portfolio/assets/37615906/9cefd885-8286-4fa2-952c-8bc0b604d5f7)
+
+![Screenshot 2024-04-10 at 2 32 20 PM](https://github.com/niccololampa/portfolio/assets/37615906/eb37c9c0-35c7-4dc0-a0e9-10ba37038c91)
+
+
+
+
