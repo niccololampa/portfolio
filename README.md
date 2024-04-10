@@ -9,21 +9,20 @@ You may also view Niccolo Lampa's tech blog:  <a href="https://thedatalife.com" 
 
 Actual Deployment: <a href="https://youtu.be/lxBvbhXag1c" target="_blank">https://www.youtube.com/watch?v=lxBvbhXag1c</a>
 
-https://github.com/niccololampa/portfolio/assets/37615906/4b70cbb9-2559-4e39-932f-0912af218d06
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lxBvbhXag1c?si=bnohhLa0yCgQI10c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+https://github.com/niccololampa/portfolio/assets/37615906/4b70cbb9-2559-4e39-932f-0912af218d06
 
 
 Demo: <a href="https://youtu.be/lxBvbhXag1c" target="_blank">https://www.youtube.com/watch?v=0K1xJo_fa_w</a>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0K1xJo_fa_w?si=HuZvshZoSL05wWGq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 https://github.com/niccololampa/portfolio/assets/37615906/467f56c9-238d-469d-96fc-f521feaa664c
 
 
 ## <a href="https://youtu.be/vyhI6LmdyCM?si=2FfMwFlLIQsQ0rVi" target="_blank">FireVisor AI Analytics</a>
 
 Demo: <a href="https://www.youtube.com/watch?v=vyhI6LmdyCM" target="_blank">https://www.youtube.com/watch?v=0K1xJo_fa_w</a>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vyhI6LmdyCM?si=SJ-9CNhSOxWVF26D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 https://github.com/niccololampa/portfolio/assets/37615906/863cb347-52dc-4c80-9d68-4ceca7894b69
 
 ## <a href="https://niccololampa.github.io/games-directory-challenge" target="_blank">Games Directory</a>
