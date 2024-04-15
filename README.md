@@ -24,6 +24,18 @@ You may also view Niccolo Lampa's tech blog:  <a href="https://thedatalife.com" 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vyhI6LmdyCM?si=SJ-9CNhSOxWVF26D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
+## <a href="https://www.youtube.com/watch?v=slmXKlTOgJo" target="_blank">FireVisor AI Cloud Defect Detection</a>
+
+**Demo Youtube Video:** <a href="https://www.youtube.com/watch?v=slmXKlTOgJo" target="_blank">https://www.youtube.com/watch?v=slmXKlTOgJo</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxBvbhXag1c?si=bnohhLa0yCgQI10c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+**Demo Youtube Video:** <a href="https://youtu.be/lxBvbhXag1c" target="_blank">https://www.youtube.com/watch?v=0K1xJo_fa_w</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slmXKlTOgJo?si=5pMVz2TqdXamqI_1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ## <a href="https://niccololampa.github.io/games-directory-challenge" target="_blank">Games Directory</a>
 
 **Github Pages Website:** <a href="https://niccololampa.github.io/games-directory-challenge" target="_blank">https://niccololampa.github.io/games-directory-challenge</a>
