@@ -99,7 +99,7 @@ You may also view Niccolo Lampa's tech blog:  <a href="https://thedatalife.com" 
 ![Screenshot 2024-04-10 at 5 37 05 PM](https://github.com/niccololampa/portfolio/assets/37615906/a4396016-9c44-4efd-b595-5e9b05e92e92)
 
 
-## <a href="https://codesandbox.io/p/sandbox/w0z1n10z9k" target="_blank">React / Redux Random Programmer Quote Generator/a> 
+## <a href="https://codesandbox.io/p/sandbox/w0z1n10z9k" target="_blank">React / Redux Random Programmer Quote Generator</a> 
 
 **CodeSandbox Demo:** <a href="https://codesandbox.io/p/sandbox/ywwz1koqvz" target="_blank">https://codesandbox.io/p/sandbox/ywwz1koqvz</a>
 
